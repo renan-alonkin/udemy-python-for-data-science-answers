@@ -1,2 +1,5 @@
 /data
 *.Rmd
+files/
+
+.ipynb_checkpoints/
